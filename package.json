@@ -1,0 +1,14 @@
+{
+  "name": "foodyca",
+  "version": "1.0.0",
+  "description": "Your Personal Coffee Ordering Platform",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir reza zolfaghari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
